@@ -9,3 +9,8 @@ Both return different data struct on their outputs, for that reason each one wil
 
 1. AWS
 2. [Azure](https://github.com/MLopezJ/asset-tracker-cloud-coiote-azure-converter-js) 
+
+
+## Notes
+
+* Server timestamp is used in case an expected timestamp is missing: [+ info](https://github.com/MLopezJ/coiote-result-transformation/issues/1)
