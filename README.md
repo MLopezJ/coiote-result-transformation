@@ -13,4 +13,4 @@ Both return different data struct on their outputs, for that reason each one wil
 
 ## Notes
 
-* Server timestamp is used in case an expected timestamp is missing: [+ info](https://github.com/MLopezJ/coiote-result-transformation/issues/1)
+* Server timestamp is used in case an [expected](https://github.com/NordicSemiconductor/asset-tracker-cloud-docs/blob/saga/docs/cloud-protocol/state.reported.azure.json) timestamp is missing: [+ info](https://github.com/MLopezJ/coiote-result-transformation/issues/1)
